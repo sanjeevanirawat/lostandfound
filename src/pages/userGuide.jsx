@@ -15,7 +15,7 @@ const UserGuide = () => {
           <p>
             When you visit{" "}
             <a
-              href="https://lost-and-found-git-main-hassana123.vercel.app/"
+              href="https://lostandfound-beta.vercel.app/"
               className="text-primary hover:underline"
             >
               CollegeCompass
